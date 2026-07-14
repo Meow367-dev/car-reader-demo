@@ -1,6 +1,6 @@
 {
-    "name": "car_reader",
-    "short_name": "car_reader",
+    "name": "CheckLight",
+    "short_name": "CheckLight",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
